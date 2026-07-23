@@ -12,11 +12,11 @@ Este projeto tem como objetivo criar uma página colaborativa com receitas compa
 
 
 ## Integrantes
-- André Alves
+- André Alves nº202513
 - David Vaz nº2025289
-- João Sabino nº
-- João Silva nº
-- Rafael Queiroz nº
+- João Sabino nº2025152
+- João Silva nº2025017
+- Rafael Queiroz nº2025013
 
 ## Descrição
 Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
