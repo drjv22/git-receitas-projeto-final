@@ -15,7 +15,7 @@ Este projeto tem como objetivo criar uma página colaborativa com receitas compa
 - André Alves
 - David Vaz nº2025289
 - João Sabino nº
-- João Silva nº
+- João Silva nº2025017
 - Rafael Queiroz nº
 
 ## Descrição
