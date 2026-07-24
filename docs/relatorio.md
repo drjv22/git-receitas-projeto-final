@@ -14,6 +14,8 @@
 - <img width="521" height="73" alt="imagem" src="https://github.com/user-attachments/assets/463feb56-1a96-4aad-ad7f-7eb7985b6e78" />
 - <img width="522" height="72" alt="imagem" src="https://github.com/user-attachments/assets/95ce7fe5-b456-4f26-a504-7474e54fdc2f" />
 - <img width="543" height="70" alt="imagem" src="https://github.com/user-attachments/assets/73dea336-9228-4ab8-94c4-e49d2d4e5d43" />
+- <img width="1083" height="421" alt="imagem" src="https://github.com/user-attachments/assets/8f9f4e84-51ce-4e11-aa9d-ae55bceda1ce" />
+
 
 ## Issues Criadas
 - Atualização dos dados dos contribuidores do projeto: André Alves, João Silva
