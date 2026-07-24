@@ -1,32 +1,43 @@
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome do projeto:
-- Integrantes:
-- Repositório: [link]
+- Nome do projeto: git-receitas-projeto-final
+- Integrantes:André Alves nº202513, David Vaz nº2025289, João Sabino nº2025152, João Silva nº2025017, Rafael Queiroz nº2025013
+- Repositório: https://github.com/drjv22/git-receitas-projeto-final
 
 ## Branches Criadas
-- Descreva as branches criadas e o objetivo de cada uma.
-- Informe como os merges foram realizados (com PR? Revisão?).
+- Panqueca-Aveia-Banana: Adicionar a receita de panquecas de aveia e banana. Merge através de Pull Request
+- sumolaranja: Adicionar a receita de sumo de laranja. Merge através de Pull Request
+- sabino-receita-nova: Adicionar receita de tosta mista com ovo. Merge através de Pull Request
 
 ## Histórico de Commits
 - Exemplo de boas mensagens de commit.
 - Print ou link do gráfico de contribuições.
+- <img width="521" height="73" alt="imagem" src="https://github.com/user-attachments/assets/463feb56-1a96-4aad-ad7f-7eb7985b6e78" />
+- <img width="522" height="72" alt="imagem" src="https://github.com/user-attachments/assets/95ce7fe5-b456-4f26-a504-7474e54fdc2f" />
+- <img width="543" height="70" alt="imagem" src="https://github.com/user-attachments/assets/73dea336-9228-4ab8-94c4-e49d2d4e5d43" />
 
 ## Issues Criadas
-Liste as issues criadas e quem ficou responsável por cada uma.
+- Atualização dos dados dos contribuidores do projeto: André Alves, João Silva
+- Resolução do conflito no README do projeto: David Vaz
 
 ## Pull Requests
-Descreva o processo de revisão e merges realizados.
+- Receita de panquecas de aveia e banana: Adicionar a receita de panquecas de aveia e banana. Merge sem conflitos.
+- Receita Sumo Laranja: Adicionar a receita de sumo de laranja. Merge sem conflitos.
+- Update README.md: Adicionar receita de tosta mista com ovo. Merge com conflitos.
 
 ## Conflitos e Resoluções
-Explique se houve conflitos e como foram resolvidos.
+Durante o desenvolvimento do projeto, existiram conflitos nos ficheiros README e index.html, estes foram resolvidos ao retirar o texto da versão anterior e substituir pelo texto da nova versão.
 
 ## Dificuldades Enfrentadas
-Dúvidas ou problemas que surgiram.
+O grupo não teve dúvidas na realização do projeto.
 
 ## Principais Comandos Git Utilizados
-Liste e comente comandos importantes usados no projeto.
+git fetch
+git pull
+git add
+git commit
+git push
 
 ## Conclusão
-Aprendizados principais do grupo com a atividade.
+O desenvolvimento deste projeto, ajudou a consolidar diversos conhecimentos em Git, sejam estes resolução de conflitos ou o funcionamento de toda a estrutura de um repositório dividido em branches, pull requests ou issues.
