@@ -11,8 +11,6 @@
 - sabino-receita-nova: Adicionar receita de tosta mista com ovo. Merge através de Pull Request
 
 ## Histórico de Commits
-- Exemplo de boas mensagens de commit.
-- Print ou link do gráfico de contribuições.
 - <img width="521" height="73" alt="imagem" src="https://github.com/user-attachments/assets/463feb56-1a96-4aad-ad7f-7eb7985b6e78" />
 - <img width="522" height="72" alt="imagem" src="https://github.com/user-attachments/assets/95ce7fe5-b456-4f26-a504-7474e54fdc2f" />
 - <img width="543" height="70" alt="imagem" src="https://github.com/user-attachments/assets/73dea336-9228-4ab8-94c4-e49d2d4e5d43" />
@@ -33,11 +31,11 @@ Durante o desenvolvimento do projeto, existiram conflitos nos ficheiros README e
 O grupo não teve dúvidas na realização do projeto.
 
 ## Principais Comandos Git Utilizados
-git fetch
-git pull
-git add
-git commit
-git push
+- git fetch
+- git pull
+- git add
+- git commit
+- git push
 
 ## Conclusão
 O desenvolvimento deste projeto, ajudou a consolidar diversos conhecimentos em Git, sejam estes resolução de conflitos ou o funcionamento de toda a estrutura de um repositório dividido em branches, pull requests ou issues.
