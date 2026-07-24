@@ -18,6 +18,7 @@ Este projeto tem como objetivo criar uma página colaborativa com receitas compa
 - João Silva nº2025017
 - Rafael Queiroz nº2025013
 
+
 ## Descrição
 Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
 
